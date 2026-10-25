@@ -1,0 +1,37 @@
+24-Oct-2026 21:15:13.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.61
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2026 22:56:25 UTC
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.61.0
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            27.0
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-26.jdk/Contents/Home
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           26.0.1+8-34
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61
+24-Oct-2026 21:15:13.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61/conf/logging.properties
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+24-Oct-2026 21:15:13.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Oct-2026 21:15:13.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Oct-2026 21:15:13.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Oct-2026 21:15:13.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Oct-2026 21:15:13.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61
+24-Oct-2026 21:15:13.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61
+24-Oct-2026 21:15:13.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61/temp
+24-Oct-2026 21:15:13.842 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/sreedhanyataicloud.com/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Oct-2026 21:15:13.942 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Oct-2026 21:15:13.953 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [196] milliseconds
+24-Oct-2026 21:15:13.970 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Oct-2026 21:15:13.970 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.61]
+24-Oct-2026 21:15:13.978 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61/webapps/digital-complaint-system.war]
+24-Oct-2026 21:15:13.984 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61/webapps/digital-complaint-system] was found with a last modified time that did not match the associated WAR. It will be deleted.
+24-Oct-2026 21:15:14.313 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Oct-2026 21:15:14.330 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/sreedhanyataicloud.com/Downloads/Digital-Complaint-System-Package/tools/apache-tomcat-10.1.61/webapps/digital-complaint-system.war] has finished in [351] ms
+24-Oct-2026 21:15:14.331 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Oct-2026 21:15:14.335 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [380] milliseconds
